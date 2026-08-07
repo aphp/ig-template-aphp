@@ -131,3 +131,11 @@ pre[class*=language-fsh] .token.caret {
   height: unset;
   vertical-align: unset;
 }
+
+details > summary {
+  cursor: pointer;
+}
+
+details {
+  margin-bottom: 1rem;
+}
